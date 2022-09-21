@@ -23,7 +23,7 @@
     "tle.js": "^3.1.0",
     "vue": "^2.6.11",
     "vue-modaltor": "^1.5.4",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
